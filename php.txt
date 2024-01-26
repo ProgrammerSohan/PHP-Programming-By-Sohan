@@ -1,2 +1,6 @@
-
-Creating a comprehensive syllabus for PHP from beginner to master level is a substantial task, as it involves covering a wide range of topics and skills. Below is a general outline that can guide you through the progression:
+PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
+**
+All Commits:
+****************
+01. main 
+02. variable-related
